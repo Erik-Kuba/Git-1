@@ -1,5 +1,5 @@
 const apiKey = "96b98ba93246419b8da174841240711";
-let city = "Berlin";
+let city = "Bishkek";
 const call = `http://api.weatherapi.com/v1/current.json?key=${apiKey}&q=${city}&aqi=yes`;
 
 let arrWeek = [];
